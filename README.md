@@ -2,16 +2,10 @@
 Fixed-point arithmetic module in C providing 8-bit and 16-bit operations with configurable Q-format and Test Harness for validation
 
 ## Description
-This project implements performance efficient fixed point arithmetic (Add, Sub, Mult, Div) in both 8-bit and 16-bit with configurable Q-format. The main module provides a small test harness that executes a set of predefined tests for both of the 16-bit and 8-bit formats and reports PASS/FAIL for each of the tests. This includes cases covering different behaviours like normal operation, boundary handling and saturation, rounding and precision effects and failure conditions.
+This project implements performance efficient fixed point arithmetic (Add, Sub, Mult, Div) in both 8-bit and 16-bit with configurable Q-format. The main module provides a small test harness that executes a set of predefined tests for both of the 16-bit and 8-bit formats and reports PASS/FAIL for each of the tests. This includes cases covering different behaviours like normal operation, boundary handling and saturation, rounding and precision effects and failure conditions. Documentation is generated using Doxygen.
 
 ## Project Directory Structure
-
-```
-├── FixedPointArithmetic/
-└── Doxygen_Documentation/
-```
-## Directory Description
-The directory FixedPointArithmetic contains the source code as well as Microsoft Visual Studio solution. Documentation is generated using Doxygen.
+The directory FixedPointArithmetic contains the source code as well as Microsoft Visual Studio solution. 
 
 ## Static Design UML
 <img width="325" height="473" alt="image" src="https://github.com/user-attachments/assets/e967f7c1-beff-4797-a62d-6c85551e0763" />
