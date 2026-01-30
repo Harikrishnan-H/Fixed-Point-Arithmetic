@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['fixedpoint_5fadd16_0',['FixedPoint_Add16',['../group__g___fixed_point.html#ga336c09b4a684309899bdfdd66bc8e5a8',1,'FixedPoint.c']]],
+  ['fixedpoint_5fadd16_5fcore_1',['FixedPoint_Add16_Core',['../group__g___fixed_point.html#gafa5a3aac9a3a0743c0c6e5e9e782975d',1,'FixedPoint.c']]],
+  ['fixedpoint_5fadd8_2',['FixedPoint_Add8',['../group__g___fixed_point.html#ga0dad265a58d078b6b60d2905472bf14f',1,'FixedPoint.c']]],
+  ['fixedpoint_5fadd8_5fcore_3',['FixedPoint_Add8_Core',['../group__g___fixed_point.html#ga204fe0b964a2dc528475c6b08c2ccae4',1,'FixedPoint.c']]],
+  ['fixedpoint_5fdiv16_4',['FixedPoint_Div16',['../group__g___fixed_point.html#gafb62b2d9a24cd5e5b1d83490fa996a0d',1,'FixedPoint.c']]],
+  ['fixedpoint_5fdiv16_5fcore_5',['FixedPoint_Div16_Core',['../group__g___fixed_point.html#gac4565f0a8c7bd24d3f8e721511c0c90e',1,'FixedPoint.c']]],
+  ['fixedpoint_5fdiv8_6',['FixedPoint_Div8',['../group__g___fixed_point.html#gaea2f96707ea5e744e70bbd7a302f49d5',1,'FixedPoint.c']]],
+  ['fixedpoint_5fdiv8_5fcore_7',['FixedPoint_Div8_Core',['../group__g___fixed_point.html#ga7c2af8d4361f7fd17b9da7a0ca287ecd',1,'FixedPoint.c']]],
+  ['fixedpoint_5ffix16tofloat_8',['FixedPoint_Fix16ToFloat',['../group__g___fixed_point.html#ga7b4b5a3ca93fcc096da9259f9fe96cd9',1,'FixedPoint.c']]],
+  ['fixedpoint_5ffix8tofloat_9',['FixedPoint_Fix8ToFloat',['../group__g___fixed_point.html#ga681df391929d335df3af7d6041cbfbaf',1,'FixedPoint.c']]],
+  ['fixedpoint_5ffloattofix16_10',['FixedPoint_FloatToFix16',['../group__g___fixed_point.html#ga29d1dd49ac3574bb07e11116c3ad152b',1,'FixedPoint.c']]],
+  ['fixedpoint_5ffloattofix8_11',['FixedPoint_FloatToFix8',['../group__g___fixed_point.html#gab29347eafbe47e9a0231ae3c606f0bdc',1,'FixedPoint.c']]],
+  ['fixedpoint_5fmult16_12',['FixedPoint_Mult16',['../group__g___fixed_point.html#gad9adf5230271a61fc6314d7114e33db6',1,'FixedPoint.c']]],
+  ['fixedpoint_5fmult16_5fcore_13',['FixedPoint_Mult16_Core',['../group__g___fixed_point.html#gac1485c311f0a5c261e165bd0ddf37822',1,'FixedPoint.c']]],
+  ['fixedpoint_5fmult8_14',['FixedPoint_Mult8',['../group__g___fixed_point.html#ga9202a859a14fbe8ca3877ab86bb1e8b8',1,'FixedPoint.c']]],
+  ['fixedpoint_5fmult8_5fcore_15',['FixedPoint_Mult8_Core',['../group__g___fixed_point.html#ga36fe46bfecf8f2bf0accb4afc42ab0a6',1,'FixedPoint.c']]],
+  ['fixedpoint_5fsub16_16',['FixedPoint_Sub16',['../group__g___fixed_point.html#ga32f9a4f1b01a71dda870845d8746d230',1,'FixedPoint.c']]],
+  ['fixedpoint_5fsub16_5fcore_17',['FixedPoint_Sub16_Core',['../group__g___fixed_point.html#ga62d351e0fd2d557b11e090a2f39e1732',1,'FixedPoint.c']]],
+  ['fixedpoint_5fsub8_18',['FixedPoint_Sub8',['../group__g___fixed_point.html#gadaa0b83d888b7ba4c8d0a8a87a7d8d15',1,'FixedPoint.c']]],
+  ['fixedpoint_5fsub8_5fcore_19',['FixedPoint_Sub8_Core',['../group__g___fixed_point.html#ga8e339c8b828c5d4c0108b482c87fb0e3',1,'FixedPoint.c']]]
+];
